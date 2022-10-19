@@ -1,0 +1,15 @@
+nav{
+    margin-top: 30px;
+}
+
+nav a.active{
+    border-radius: 4px 4px 0 0;
+}
+
+nav a.navbar-btn{
+    border-top: none;
+    border-bottom-color: #eee;
+    margin: -5px;
+    text-align: left;
+    border-radius: 0;
+}
